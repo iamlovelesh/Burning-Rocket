@@ -74,7 +74,7 @@ public class Rocket : MonoBehaviour
         CollisionParticle.Play();
         audioSource.Stop();
         audioSource.PlayOneShot(death);
-       // Invoke("LoadNextScene", levelLoaddelay);
+        Invoke("LoadNextScene", levelLoaddelay);
 
     }
 
