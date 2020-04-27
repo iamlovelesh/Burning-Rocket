@@ -2,8 +2,7 @@
 Burning Rocket is an awesome 3D game.
 ![alt text](https://github.com/iamlovelesh/Burning-Rocket/blob/master/Assets/logo.png)
 # Getting Started
-This game is a project work under course on Unity and C#. 
-This game is the practical implimentation of . It is for educational purpose and is completely free to use.
+This game is a project work under course on Unity and C#. It is for educational purpose and is completely free to use.
 # Requirements
 Make sure you have the below requirements before starting:
 - Unity Game Engine
