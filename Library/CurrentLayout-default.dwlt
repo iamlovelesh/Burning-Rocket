@@ -114,7 +114,7 @@ MonoBehaviour:
   m_MinSize: {x: 683, y: 494}
   m_MaxSize: {x: 14004, y: 14044}
   vertical: 0
-  controlID: 29494
+  controlID: 1939
 --- !u!114 &6
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -139,7 +139,7 @@ MonoBehaviour:
   m_MinSize: {x: 406, y: 494}
   m_MaxSize: {x: 10002, y: 14044}
   vertical: 1
-  controlID: 29495
+  controlID: 1940
 --- !u!114 &7
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -164,7 +164,7 @@ MonoBehaviour:
   m_MinSize: {x: 406, y: 222}
   m_MaxSize: {x: 8006, y: 4022}
   vertical: 0
-  controlID: 29448
+  controlID: 1941
 --- !u!114 &8
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -384,10 +384,10 @@ MonoBehaviour:
   m_ViewDataDictionary: {fileID: 0}
   m_SceneHierarchy:
     m_TreeViewState:
-      scrollPos: {x: 0, y: 0}
-      m_SelectedIDs: 
+      scrollPos: {x: 0, y: 22}
+      m_SelectedIDs: d2280000
       m_LastClickedID: 0
-      m_ExpandedIDs: ec1affff221bfffffa1bffff981cffff541dffffee1fffffd222ffffec25ffff6229ffff442cffff002effff9032ffff9432ffff0233ffff6638ffff6a38ffff1239ffff643affff3a3bffff4255ffff7a63ffffaa64ffff4065ffff0675ffff8876ffff847bffffa2beffffa4beffffcabfffff1ec1ffff4eeaffffe8eaffff6cebfffff0ebffff68ecffffe8ecffff6aedfffffaedffff7eeeffff18efffff98efffff12f0ffff96f0ffff3af1ffffbef1ffff42f2ffffc6f2ffff3ef3ffffbef3ffff34f5ffffe2f6ffff86f7ffff76fbffff
+      m_ExpandedIDs: 3ee9ffff52e9ffff54e9ffff6aecffffd8ecffffdceeffff
       m_RenameOverlay:
         m_UserAcceptedRename: 0
         m_Name: 
@@ -447,9 +447,9 @@ MonoBehaviour:
   m_PlayAudio: 0
   m_AudioPlay: 0
   m_Position:
-    m_Target: {x: -10.093145, y: 12.041813, z: -11.201586}
+    m_Target: {x: -6.0660863, y: 40.261036, z: -14.668473}
     speed: 2
-    m_Value: {x: -10.093145, y: 12.041813, z: -11.201586}
+    m_Value: {x: -6.0660863, y: 40.261036, z: -14.668473}
   m_RenderMode: 0
   m_CameraMode:
     drawMode: 0
@@ -478,9 +478,9 @@ MonoBehaviour:
       speed: 2
       m_Value: 0
   m_Rotation:
-    m_Target: {x: -0.023902357, y: 0.08896106, z: 0.0021398773, w: 0.9957643}
+    m_Target: {x: 0.16385111, y: -0.14824826, z: 0.024918845, w: 0.9749831}
     speed: 2
-    m_Value: {x: 0.023902355, y: -0.08896106, z: -0.002139877, w: -0.9957643}
+    m_Value: {x: -0.16385111, y: 0.14824827, z: -0.024918845, w: -0.9749831}
   m_Size:
     m_Target: 30.029827
     speed: 2
@@ -590,7 +590,7 @@ MonoBehaviour:
   m_ViewDataDictionary: {fileID: 0}
   m_LockTracker:
     m_IsLocked: 0
-  m_LastSelectedObjectID: -51134
+  m_LastSelectedObjectID: -5826
 --- !u!114 &18
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -630,20 +630,20 @@ MonoBehaviour:
     m_SkipHidden: 0
     m_SearchArea: 1
     m_Folders:
-    - Assets/Scenes/Levels
+    - Assets/Scenes
   m_ViewMode: 1
   m_StartGridSize: 53
   m_LastFolders:
-  - Assets/Scenes/Levels
+  - Assets/Scenes
   m_LastFoldersGridSize: 53
   m_LastProjectPath: D:\Repos\Burning Rocket
   m_LockTracker:
     m_IsLocked: 0
   m_FolderTreeState:
     scrollPos: {x: 0, y: 0}
-    m_SelectedIDs: 4e2e0000
-    m_LastClickedID: 11854
-    m_ExpandedIDs: 00000000ae2c0000d42e00005a9700005e97000000ca9a3b
+    m_SelectedIDs: 64300000
+    m_LastClickedID: 12388
+    m_ExpandedIDs: 00000000643000003c330000a6330000fc34000000ca9a3b
     m_RenameOverlay:
       m_UserAcceptedRename: 0
       m_Name: 
@@ -671,7 +671,7 @@ MonoBehaviour:
     scrollPos: {x: 0, y: 0}
     m_SelectedIDs: 
     m_LastClickedID: 0
-    m_ExpandedIDs: 00000000ae2c0000d42e00005a9700005e97000000ca9a3b
+    m_ExpandedIDs: 00000000643000003c330000a6330000fc34000000ca9a3b
     m_RenameOverlay:
       m_UserAcceptedRename: 0
       m_Name: 
@@ -698,7 +698,7 @@ MonoBehaviour:
   m_ListAreaState:
     m_SelectedInstanceIDs: 
     m_LastClickedInstanceID: 0
-    m_HadKeyboardFocusLastEvent: 1
+    m_HadKeyboardFocusLastEvent: 0
     m_ExpandedInstanceIDs: c623000000000000
     m_RenameOverlay:
       m_UserAcceptedRename: 0
